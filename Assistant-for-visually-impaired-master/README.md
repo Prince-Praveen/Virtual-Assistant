@@ -62,8 +62,8 @@ Tech- stacks used:
  Copy and paste the files at thr required position.
  
  ```
-    git clone https://github.com/mansi1710/DobaraMatPuchana
-    cd prince-praveen
+    gh repo clone Prince-Praveen/Virtual-Assistant
+    cd Prince-Praveen
     pip install -r requirements.txt
  ```
  
