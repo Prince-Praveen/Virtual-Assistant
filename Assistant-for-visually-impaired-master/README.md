@@ -1,4 +1,4 @@
-# DobaraMatPuchana
+
 
 ## **Jyoti** : Assistant for blind
 
@@ -63,7 +63,7 @@ Tech- stacks used:
  
  ```
     git clone https://github.com/mansi1710/DobaraMatPuchana
-    cd DobaraMatPuchana
+    cd prince-praveen
     pip install -r requirements.txt
  ```
  
